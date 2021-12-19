@@ -1,0 +1,11 @@
+E:\DEVDIR\C#\SQLTesting\bin\Debug\SQLTesting.exe.config
+E:\DEVDIR\C#\SQLTesting\bin\Debug\SQLTesting.exe
+E:\DEVDIR\C#\SQLTesting\bin\Debug\SQLTesting.pdb
+E:\DEVDIR\C#\SQLTesting\obj\Debug\SQLTesting.csprojAssemblyReference.cache
+E:\DEVDIR\C#\SQLTesting\obj\Debug\SQLTesting.Properties.Resources.resources
+E:\DEVDIR\C#\SQLTesting\obj\Debug\SQLTesting.csproj.GenerateResource.cache
+E:\DEVDIR\C#\SQLTesting\obj\Debug\SQLTesting.csproj.CoreCompileInputs.cache
+E:\DEVDIR\C#\SQLTesting\obj\Debug\SQLTesting.exe
+E:\DEVDIR\C#\SQLTesting\obj\Debug\SQLTesting.pdb
+E:\DEVDIR\C#\SQLTesting\obj\Debug\SQLTesting.frmMain.resources
+E:\DEVDIR\C#\SQLTesting\obj\Debug\SQLTesting.frmShowData.resources
